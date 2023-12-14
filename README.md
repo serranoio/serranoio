@@ -3,6 +3,6 @@
 
 <p><i>Everything here is made with <span style="color:orange;">love.</span>🖤</i></p>
 
-![IMG_0145 (2)](https://github.com/serranoio/serranoio/assets/75829857/877e7882-ab4b-42f5-9401-aa6cf4e9f4b7)
+![Untitled (3)](https://github.com/serranoio/serranoio/assets/75829857/cefa2265-d9d6-4757-a98b-6666fa90bb9d)
 </div>
 
