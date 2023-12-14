@@ -5,4 +5,4 @@
 </div>
 
 
-🖤Made with Love🖤
+<div align="center">Everything here is made with love.🖤</div>
