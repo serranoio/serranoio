@@ -1,4 +1,4 @@
-<div align="center"><h1>Welcome To My Art Gallery🖌️💙</h1>
+<div align="center"><h1>Welcome to my Art Gallery🖌️💙</h1>
 
 
 <p><i>Everything here is made with <span style="color:orange;">love.</span>🖤</i></p>
